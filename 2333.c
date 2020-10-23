@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("2333333");
-return 0;
+  printf("派大星2333333");
+  return 0;
 }
